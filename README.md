@@ -26,9 +26,6 @@ It provides a smooth and attractive user experience, allowing users to browse pr
 - 🔤 **Custom Fonts**  
   Styled UI using Suwannaphum font.
 
-- 🌐 **Arabic Language Support**  
-  App is fully localized with `.arb` files (Bonus).
-
 ---
 
 ## 🛠️ Setup Instructions
